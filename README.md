@@ -34,7 +34,7 @@ Siempre dispuesta a aprender y poner en práctica. Experto en desarrollo de cód
 ### Contactame
 |  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" align="center" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|📞 *96645 94525*|
+|📞 *2229000693*|
 |✉️ *Concepcionflores25@gmail.com  \| Concepcionflores25@gmail.com *|
 
 <a href="https://www.linkedin.com/in/concepcion-flores/" align="center" >
