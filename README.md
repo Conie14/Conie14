@@ -27,24 +27,27 @@ Siempre dispuesta a aprender y poner en práctica. Experto en desarrollo de cód
 <p width="100%" align="center">
   <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
 </p>
-<br><br>
+<br />
+<br />
+<br />
 
 ### Contactame
-|  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
+|  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" align="center" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *96645 94525*|
 |✉️ *Concepcionflores25@gmail.com  \| Concepcionflores25@gmail.com *|
-|&nbsp; &nbsp; <a href="https://www.linkedin.com/in/concepcion-flores/">
+
+<a href="https://www.linkedin.com/in/concepcion-flores/" align="center" >
    <img align="left" alt="Concepcion Flores Miranda | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
-  <a href="mailto:concepcionflores25@gmail.com">
+  <a href="mailto:concepcionflores25@gmail.com" align="center" >
     <img align="left" alt="Concepcion Flores Miranda | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-  <a href="https://twitter.com/conchita_jr">
+  <a href="https://twitter.com/conchita_jr" align="center" >
     <img align="left" alt="Concepcion Flores Miranda | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/piyushp7pravin/">
+  <a href="https://www.instagram.com/piyushp7pravin/" align="center" >
     <img align="left" alt="Concepcion Flores Miranda | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
-  </a>&nbsp; &nbsp; |
+  </a>
 
 ⭐️ From [Conie14](https://github.com/rkasale28)
