@@ -46,8 +46,15 @@ Siempre dispuesta a aprender y poner en práctica. Experto en desarrollo de cód
   <a href="https://twitter.com/conchita_jr" align="center" >
     <img align="left" alt="Concepcion Flores Miranda | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/piyushp7pravin/" align="center" >
+  <a href="https://www.instagram.com/coniee_flores_lml/" align="center" >
     <img align="left" alt="Concepcion Flores Miranda | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
   </a>
+  
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-⭐️ From [Conie14](https://github.com/rkasale28)
+<h2 align="center">⭐️⭐️⭐️ POR [Conie14](https://github.com/rkasale28)⭐️⭐️⭐️</h2>
