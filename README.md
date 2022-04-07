@@ -1,6 +1,6 @@
 ### Hola. yo soy Concepcion. 👋
 *Concepcionflores25@gmail.com \| Concepcionflores25@gmail.com *
-<img align="right" width="200" height="161" src="https://github.com/rkasale28/rkasale28/blob/master/icons/avatar.jpg">
+<img align="right" width="200" height="161" src="https://www.ameci.org/images/Navegar_seguro.gif">
 
 Soy una persona dispuesta a cumplir con los retos que se presenten, abierta a conocimientos nuevos, además se desempeñarme con grupos de trabajo en distintas áreas, confió en mis habilidades de análisis y creatividad para proponer soluciones a inconvenientes, logrando mejoras dentro de cualquier organización. Una de las motivaciones que tengo muy presente es el obtener conocimiento contante para enfrentar nuevos retos, estigmas para crecer de manera ética y laboralmente.
 Siempre dispuesta a aprender y poner en práctica. Experto en desarrollo de código. Capaz de depurar codigo. Cuento con experiencia en los campos de Desarrollo Web, Desarrollo movil y Manejo de Bases de Datos e interesada en el campo de la ciberseguridad. <br /><br />
@@ -34,8 +34,7 @@ Siempre dispuesta a aprender y poner en práctica. Experto en desarrollo de cód
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *96645 94525*|
 |✉️ *Concepcionflores25@gmail.com  \| Concepcionflores25@gmail.com *|
-|&nbsp; &nbsp; 
-  <a href="https://www.linkedin.com/in/concepcion-flores/">
+|&nbsp; &nbsp; <a href="https://www.linkedin.com/in/concepcion-flores/">
    <img align="left" alt="Concepcion Flores Miranda | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:concepcionflores25@gmail.com">
@@ -46,9 +45,6 @@ Siempre dispuesta a aprender y poner en práctica. Experto en desarrollo de cód
   </a>
   <a href="https://www.instagram.com/piyushp7pravin/">
     <img align="left" alt="Concepcion Flores Miranda | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
-  </a>
-&nbsp; &nbsp; 
-
-|
+  </a>&nbsp; &nbsp; |
 
 ⭐️ From [Conie14](https://github.com/rkasale28)
