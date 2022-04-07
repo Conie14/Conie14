@@ -1,6 +1,6 @@
 ### Hola. yo soy Concepcion. 👋
 *Concepcionflores25@gmail.com \| Concepcionflores25@gmail.com *
-<img align="right" width="200" height="161" src="https://www.ameci.org/images/Navegar_seguro.gif">
+<img align="right" width="200" height="161" src="https://www.telemundo.com/sites/nbcutelemundo/files/styles/social_share_1024x768_scale/public/images/article/cover/2018/11/29/mujer-programando-en-computadora.jpg?ramen_itok=iqwQftIcTf">
 
 Soy una persona dispuesta a cumplir con los retos que se presenten, abierta a conocimientos nuevos, además se desempeñarme con grupos de trabajo en distintas áreas, confió en mis habilidades de análisis y creatividad para proponer soluciones a inconvenientes, logrando mejoras dentro de cualquier organización. Una de las motivaciones que tengo muy presente es el obtener conocimiento contante para enfrentar nuevos retos, estigmas para crecer de manera ética y laboralmente.
 Siempre dispuesta a aprender y poner en práctica. Experto en desarrollo de código. Capaz de depurar codigo. Cuento con experiencia en los campos de Desarrollo Web, Desarrollo movil y Manejo de Bases de Datos e interesada en el campo de la ciberseguridad. <br /><br />
