@@ -22,11 +22,8 @@ Siempre dispuesta a aprender y poner en práctica. Experto en desarrollo de cód
 <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android">
 <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> <br /><img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"><br /><img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br /><img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 
-<h2 align="center">Repositorios</h2>
 
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
-</p>
+
 <br />
 <br />
 <br />
