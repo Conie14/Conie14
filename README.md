@@ -54,4 +54,4 @@ Siempre dispuesta a aprender y poner en práctica. Experto en desarrollo de cód
 <br />
 <br />
 
-<h4 align="center">⭐️⭐️⭐️ POR [Conie14](https://github.com/rkasale28)⭐️⭐️⭐️</h4>
+<h4 align="center">⭐️⭐️⭐️ POR [Conie14](https://github.com/Conie14/Conie14)⭐️⭐️⭐️</h4>
